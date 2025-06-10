@@ -1,10 +1,53 @@
 .header{
-display: flex;
-flex-direction: column;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    max-width:984px;
+    height: 983px;
 }
 
 .header__logo{
+    position: absolute;
+    top: 34px;
+    left: 513px;
 width: 245.84px;
 height: 68.94px;
+
+}
+
+.header__title{
+    font-family: "Inter";
+font-weight: 900;
+font-size: 96px;
+line-height: 100px;
+letter-spacing: 0%;
+text-align: center;
+max-width: 720px;
+    height: 200px;
+    position:absolute;
+    top: 194px;
+    left: 280px;
+}
+
+.header__subtitle{
+    font-family: "Inter";
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: center;
+max-width: 720px;
+height: 72px;
+position: absolute;
+top: 426px;
+left: 280px;
+}
+
+.header__image{
+    position: absolute;
+    max-width: 984;
+height: 615;
+top: 562px;
+left: 148px;
 
 }
