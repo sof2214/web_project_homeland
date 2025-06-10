@@ -1,0 +1,10 @@
+.header{
+display: flex;
+flex-direction: column;
+}
+
+.header__logo{
+width: 245.84px;
+height: 68.94px;
+
+}
