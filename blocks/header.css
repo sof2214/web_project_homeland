@@ -28,21 +28,10 @@ font-size: 30px;
 line-height: 36px;
 letter-spacing: 0%;
 text-align: center;
-width: 720px;
-height: 72px;
-position: absolute;
-top: 426px;
-left: 280px;
 }
 
 .header__image{
     padding-top: 60px;
     background-position: center;
     background-size: cover;
-    position: absolute;
-    max-width: 984;
-height: 615;
-top: 562px;
-left: 148px;
-
 }
