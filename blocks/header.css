@@ -7,7 +7,6 @@
 
 .header__logo{
     padding-top: 40px;
-    padding-left: 140px;
 
 }
 
@@ -36,7 +35,7 @@ text-align: center;
     background-size: cover;
 }
 
-@media (width:768px) {
+@media (max-width:768px) {
 
 .header__logo{
     padding-top: 40px;
@@ -65,4 +64,37 @@ letter-spacing: 0%;
     width: 768px;
     
 }
+}
+
+@media (max-width:320px){
+    .header__logo{
+        padding-top: 40px;
+    }
+.header__title{
+font-family: "Inter";
+font-weight: 900;
+font-size: 40px;
+line-height: 44px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+
+.header__subtitle{
+font-family: "Inter";
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+
+.header__image{
+    padding-top: 60px;
+    background-position: center;
+    width: 320px;
+}
+
+
 }
