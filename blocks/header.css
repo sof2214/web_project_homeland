@@ -7,6 +7,7 @@
 
 .header__logo{
     padding-top: 40px;
+    padding-left: 140px;
 
 }
 
@@ -33,4 +34,35 @@ text-align: center;
     padding-top: 60px;
     background-position: center;
     background-size: cover;
+}
+
+@media (width:768px) {
+
+.header__logo{
+    padding-top: 40px;
+}
+
+.header__title{
+    font-family: "Inter";
+font-weight: 900;
+font-size: 75px;
+line-height: 79px;
+letter-spacing: 0%;
+}
+
+.header__subtitle{
+   font-family: "Inter";
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+letter-spacing: 0%;
+
+}
+
+.header__image{
+    padding-top: 60px;
+    background-position: center;
+    width: 768px;
+    
+}
 }
