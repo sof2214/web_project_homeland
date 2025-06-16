@@ -15,7 +15,7 @@
 font-weight: 900;
 font-size: 96px;
 line-height: 100px;
-letter-spacing: 0%;
+
 text-align: center;
 }
 
@@ -25,7 +25,6 @@ text-align: center;
 font-weight: 400;
 font-size: 30px;
 line-height: 36px;
-letter-spacing: 0%;
 text-align: center;
 }
 
@@ -46,7 +45,6 @@ text-align: center;
 font-weight: 900;
 font-size: 75px;
 line-height: 79px;
-letter-spacing: 0%;
 }
 
 .header__subtitle{
@@ -54,7 +52,6 @@ letter-spacing: 0%;
 font-weight: 400;
 font-size: 30px;
 line-height: 36px;
-letter-spacing: 0%;
 
 }
 
@@ -75,7 +72,6 @@ font-family: "Inter";
 font-weight: 900;
 font-size: 40px;
 line-height: 44px;
-letter-spacing: 0%;
 text-align: center;
 
 }
@@ -85,7 +81,6 @@ font-family: "Inter";
 font-weight: 400;
 font-size: 16px;
 line-height: 20px;
-letter-spacing: 0%;
 text-align: center;
 
 }
