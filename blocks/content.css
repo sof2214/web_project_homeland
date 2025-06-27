@@ -32,6 +32,7 @@ font-size: 24px;
 line-height: 34px;
 text-align: right;
 max-width: 732px;
+padding-right: 30px;
 
 }
 
@@ -41,6 +42,7 @@ text-align: left;
 font-size: 16px;
 line-height: 1.6;
 max-width: 732px;
+padding-right: 10px;
 }
 
 @media (max-width:768px){
@@ -95,6 +97,7 @@ line-height: 163%;
 font-weight: 900;
 font-size: 32px;
 line-height: 35px;
+padding-right: 10px;
 
     }
 
@@ -103,6 +106,7 @@ font-family: "Inter";
 font-weight: 400;
 font-size: 24px;
 line-height: 30px;
+padding-right: 10px;
 
     }
     .content__author{
@@ -111,6 +115,7 @@ font-weight: 400;
 font-size: 24px;
 line-height: 34px;
 text-align: right;
+padding-left: 20px;
 
     }
 
