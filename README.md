@@ -1,1 +1,2 @@
 # Tripleten web_project_homeland
+The TripleTen Art Gallery website is the fifth project in the TripleTen Web Development program. It was created using HTML and CSS, based on a design brief taken from Figma, resulting in a responsive website. Shading and gradient techniques were also used to style the images and buttons on the page.
