@@ -1,14 +1,14 @@
 .content__section{
     padding-top: 50px;
-    padding-left: 575px;
+    padding-left: 130px;
     color: white;
     display:flex;
-    flex-direction:column;
+    flex-direction: column;
+
     
 }
 
 .content__title{
-font-family: "Inter-black";
 font-weight: 900;
 font-size: 54px;
 line-height: 1.1;

@@ -11,7 +11,6 @@
 }
 
 .header__title{
-    font-family: "Inter-black";
 font-weight: 900;
 font-size: 97px;
 line-height: 100px;
@@ -46,7 +45,6 @@ line-height: 1;
 }
 
 .header__title{
-    font-family: "Inter";
 font-weight: 900;
 font-size: 75px;
 line-height: 79px;
@@ -78,7 +76,6 @@ background-size: cover;
         padding-left: 10px;
     }
 .header__title{
-font-family: "Inter";
 font-weight: 900;
 font-size: 40px;
 line-height: 44px;
