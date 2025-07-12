@@ -51,7 +51,7 @@ opacity: 1;
 border-radius: 4px;
 gap: 10px;
 grid-column: 1/2;
-grid-row:3/4:
+grid-row:3/4;
 
 }
 
@@ -117,23 +117,6 @@ max-width: 484px;
 max-height: 203px;
 opacity: 1;
 padding-left: 30px;
-font-family: Inter;
-font-weight: 400;
-font-size: 18px;
-line-height: 163%;
-letter-spacing: 0%;
-grid-column: 2/3;
-grid-row:2/3;
-
-
-}
-.places__paragraph-2{
-color: #FFFFFF;
-max-width: 484px;
-max-height: 203px;
-opacity: 1;
-padding-left: 30px;
-padding-top: 220px;
 font-family: Inter;
 font-weight: 400;
 font-size: 18px;
