@@ -172,8 +172,76 @@ font-weight: 400;
 font-size: 12px;
 line-height: 163%;
 letter-spacing: 0%;
+}
+
+.places__button{
+MAX-width: 289PX;
+MAX-height: 48PX;
+opacity: 1;
+border-radius: 4px;
+padding-top: 13px;
+padding-right: 20px;
+padding-bottom: 13px;
+padding-left: 20px;
+gap: 10px;
 
 
+}
+}
+
+@media (max-width:320px){
+    .places{
+        max-width: 320px;
+        
+    }
+    .places__content{
+        display: flex;
+        flex-direction: column;
+         grid-template-columns: 100%;
+    grid-template-rows: repeat(5, 0fr);
+
+    }
+
+   .places__image{
+    max-width: 320px;
+    max-height: 320px;
+    padding-right: 40px;
+   }
+.places__title{
+font-weight: 900;
+font-size: 32px;
+line-height: 35px;
+letter-spacing: 0%;
+
+}
+.places__heading{
+font-weight: 400;
+font-size: 12px;
+line-height: 100%;
+letter-spacing: 12%;
+width: 288px;
+height: 15px;
+opacity: 1;
+margin-top: 0;
+
+}
+
+.places__artist{
+    margin-top: 0;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+letter-spacing: 0%;
+
+}
+
+.places__paragraph{
+    max-width: 288px;
+    max-height: 300px;
+font-weight: 400;
+font-size: 12px;
+line-height: 163%;
+letter-spacing: 0%;
 
 }
 }
