@@ -1,5 +1,10 @@
+.photo{
+    display: flex;
+justify-content: center;
+}
 .photo__grid{
     max-width: 1184px;
+    width: 90vw;
     display: grid;
     padding-top: 50px;
     grid-template-columns: 1fr 1fr 1fr 1fr;
