@@ -73,14 +73,15 @@ background-size: cover;
 @media (max-width:320px){
     .header__logo{
         padding-top: 40px;
-        padding-left: 10px;
+        padding-left: 95px;
+    
     }
 .header__title{
 font-weight: 900;
 font-size: 40px;
 line-height: 44px;
 text-align: center;
-padding-left: 10px;
+padding-left: 95px;
 
 }
 
@@ -90,14 +91,19 @@ font-weight: 400;
 font-size: 16px;
 line-height: 20px;
 text-align: center;
-padding-left: 40px;
+padding-left: 95px;
+width: 288px;
+height: 40px;
 
 }
 
 .header__image{
     padding-top: 60px;
     background-position: center;
-    width: 320px;
+    max-width: 320px;
+    max-height: 200px;
+    width: 100%;
+
 }
 
 
