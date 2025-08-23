@@ -4,13 +4,11 @@ justify-content: center;
 }
 .photo__grid{
     max-width: 1184px;
-    width: 90vw;
     display: grid;
     padding-top: 50px;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr;
     row-gap: 10px;
-    padding-left: 53px;
 }
 
 @media (max-width:768px){
@@ -18,8 +16,6 @@ justify-content: center;
 max-width: 720px;
 grid-template-columns: 1fr 1fr;
 grid-template-rows: 1fr 1fr 1fr 1fr;
-padding-left: 70px;
-padding-right: 5px;
 column-gap: 0px;
 }
 }
@@ -29,7 +25,6 @@ column-gap: 0px;
     width: 288px;
         grid-template-columns: 1fr;
         grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-        padding-left: 56px;
 
     }
 }

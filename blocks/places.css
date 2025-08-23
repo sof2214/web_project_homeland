@@ -16,7 +16,6 @@
 }
 
 .places__content-title {
-  /* max-width: 460px; */ /* gemini */
   width: 100%;
   font-size: 4.5rem;
   margin: 0;
